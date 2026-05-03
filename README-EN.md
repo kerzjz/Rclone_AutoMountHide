@@ -2,7 +2,7 @@
 
 [中文](README.md) | English
 
-![](https://img.shields.io/badge/License-MIT-blue)
+![](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 ## Feature Introduction
 Developed based on AutoHotkey v2.0, this utility enables **batch automated mounting for multiple Rclone cloud drives**. It uses a structured configuration array to centrally manage mounting tasks, launches all Rclone mount processes in the background, and automatically starts RBTray. All command-line mount windows are minimized and docked to the system tray. The entire process runs silently with no pop-ups or foreground windows, delivering **seamless background automation**.
