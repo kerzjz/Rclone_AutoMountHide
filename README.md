@@ -2,7 +2,7 @@
 
 中文 | [English](README-EN.md)
 
-![](https://img.shields.io/badge/License-MIT-blue)
+![](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 ## 功能简介
 本项目基于 AutoHotkey v2.0 开发，为**Rclone 多网盘批量自动化挂载工具**。采用结构化配置数组统一管理多平台网盘挂载任务，可批量后台启动 Rclone 挂载进程，自动调起 RBTray 程序，将所有挂载命令行窗口统一收拢至系统托盘驻留。全程静默执行，无冗余前台弹窗与常驻窗口，实现挂载流程**后台无感自动化运行**。
